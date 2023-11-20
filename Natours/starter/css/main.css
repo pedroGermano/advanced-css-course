@@ -1,16 +1,16 @@
 *,
 *::after,
-*::before{
+*::before {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
-html{
+html {
   font-size: 62.5%;
 }
 
-body{
+body {
   font-family: "Lato", sans-serif;
   font-weight: 400;
   font-size: 1.6rem;
@@ -18,9 +18,9 @@ body{
   color: #777;
 }
 
-.header{
+.header {
   height: 95vh;
   background: linear-gradient(#7ed56f, #28b485), url(../../img/hero.jpg);
   background-size: cover;
   background-position: top;
-}
+}/*# sourceMappingURL=main.css.map */
